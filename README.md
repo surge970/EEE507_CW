@@ -24,9 +24,9 @@ Provide user recommendations for movies based on their own personal preferences
 - Local Media Player
 - User Data storing Favourites, Blocked films, Genre listings etc.
 - Update Movielens dataset with own preferences
-- Amc Integration:
+- Automated Media Centre Integration:
   - Own preferences
-  - Reccomendation
+  - Movie Reccomendation
   - Torrent Search
   - Deluge Download
   - Filebot auto-rename
