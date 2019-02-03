@@ -24,7 +24,7 @@ Provide user recommendations for movies based on their own personal preferences
 - Preferences Import Selection (CSV/Directory)
   - Windows Folder Search Box
 - Data Output Selection
-  - CSV
+  - CSV/GUI only
 - Display Movie Posters (Plex/Netflix Style)
   - Click to Open Movie Page (Synopsis, Actors, Trailer)
 
