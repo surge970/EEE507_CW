@@ -27,6 +27,9 @@ Provide user recommendations for movies based on their own personal preferences
   - CSV/GUI only
 - Display Movie Posters (Plex/Netflix Style)
   - Click to Open Movie Page (Synopsis, Actors, Trailer)
+- User Accounts
+- Media Player
+  - Sync Watch Times
 
 #### Additional Features
 - Local Media Player
