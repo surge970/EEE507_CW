@@ -20,6 +20,14 @@ Provide user recommendations for movies based on their own personal preferences
 - Movie Titles (CSV)
 - Poster, Cast, Summary (Trailer?)
 
+#### GUI
+- Preferences Import Selection (CSV/Directory)
+  - Windows Folder Search Box
+- Data Output Selection
+  - CSV
+- Display Movie Posters (Plex/Netflix Style)
+  - Click to Open Movie Page (Synopsis, Actors, Trailer)
+
 #### Additional Features
 - Local Media Player
 - User Data storing Favourites, Blocked films, Genre listings etc.
