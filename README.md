@@ -37,8 +37,6 @@ Provide user recommendations for movies based on their own personal preferences
 - Automated Media Centre Integration:
   - Own preferences
   - Movie Reccomendation
-  - Torrent Search
-  - Deluge Download
   - Filebot auto-rename
   - Gather Metadata & Posters
   - Plex/Media Player
