@@ -1,6 +1,6 @@
 # EEE507_CW
 Group Coursework for EEE507 Object Orientated Programming
-Aidan Little & Cameron Scott
+Aidan Little, Cameron Scott and Steven Surgenor
 
 ## *Title*
 Movie Recommendation Engine
